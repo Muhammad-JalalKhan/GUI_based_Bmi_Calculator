@@ -123,6 +123,7 @@ BMI Calculator/
 
 **Muhammad Jalal Khan**  
 🎓 2nd Semester — Artificial Intelligence Student  
+
 🔗 [GitHub Profile](https://github.com/Muhammad-JalalKhan)
 
 ---
