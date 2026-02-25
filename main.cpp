@@ -9,7 +9,7 @@ int main(array<String^>^ args)
 	Application::EnableVisualStyles();
 	Application::SetCompatibleTextRenderingDefault(false);
 
-	// Show Welcome Form first
+	// Show Welcome Form firsts
 	BMICalculator::WelcomeFor^ welcomeFor = gcnew BMICalculator::WelcomeFor();
 	Application::Run(welcomeFor);
 
