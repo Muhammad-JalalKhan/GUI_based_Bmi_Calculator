@@ -1,0 +1,4 @@
+D:\Jk Data\Semester 2\visual studio\BMI Calculator\BMI Calculator\x64\Debug\BMI Calculator.vcxproj.AssemblyReference.cache
+D:\Jk Data\Semester 2\visual studio\BMI Calculator\BMI Calculator\x64\Debug\BMICalculator.BMICalculator.resources
+D:\Jk Data\Semester 2\visual studio\BMI Calculator\BMI Calculator\x64\Debug\BMICalculator.WelcomeFor.resources
+D:\Jk Data\Semester 2\visual studio\BMI Calculator\BMI Calculator\x64\Debug\BMI Calculator.vcxproj.GenerateResource.cache
