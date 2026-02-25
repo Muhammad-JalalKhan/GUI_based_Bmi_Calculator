@@ -1,0 +1,10 @@
+echo ".vs/
+x64/
+Debug/
+*.suo
+*.user
+*.pdb
+*.exe
+*.obj
+*.tlog
+*.ipch" > .gitignore
